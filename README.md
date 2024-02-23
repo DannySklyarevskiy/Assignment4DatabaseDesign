@@ -16,7 +16,7 @@ Submit a text file (script) with a .sql extension containing only the SQL querie
 
 ## How to run:
 1) Open up DB Browser
-2) Click the "Open Database" button and select the attached database called "chinook.db"
+2) Click the "Open Database" button and select the attached database called "MediaDB.db"
 3) Click on "Execute SQL"
 4) Paste the SQL file into the system
 5) Click the play button (execute all)
